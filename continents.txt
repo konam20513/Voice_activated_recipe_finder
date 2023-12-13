@@ -1,0 +1,6 @@
+european
+african
+asian
+north american
+australasian
+latin american
